@@ -28,4 +28,9 @@ How to Run:
 ----------------------------------------------------
 ```bash
 ./converter.sh
+Select one conversion option:
+1. JSON-to-YAML(JY/jy)
+2. YAML-to-JSON(YJ/yj)
+Enter option: 
+
 ```
